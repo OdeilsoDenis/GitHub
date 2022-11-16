@@ -1,6 +1,6 @@
 Git Teste
 
-Este é um repositorio teste.
+Este é o primeiro repositorio teste.
 
 ............................
 Comandos
